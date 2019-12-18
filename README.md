@@ -1,0 +1,1 @@
+# drmax-lib-js-ghstat-test8
